@@ -5,6 +5,7 @@
     android:layout_height="fill_parent"
 
     android:overScrollMode="always"
-    android:overScrollHeader="#000000"
-    android:overScrollFooter="#000000"
-    />
+    android:overScrollHeader="@drawable/ic_launcher"
+    android:overScrollFooter="@drawable/ic_launcher"
+    maxOverScrollY="500"
+/>
